@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: MANGARI DEERAJ </h3>
-<h3>Register Number: 212223100031</h3>
+<h3>Name: NAGALAPURAM HASIF </h3>
+<h3>Register Number: 212223100036</h3>
 
 
 <h3>AIM:</h3>
